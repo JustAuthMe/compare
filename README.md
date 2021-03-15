@@ -7,7 +7,7 @@
 |Aucun mot de passe à retenir|✅|❌|✅|✅|✅|
 |Même pas un mot de passe maître|✅|❌|❌|❌|✅|
 |Connexion depuis l'appareil d'un ami|✅|✅|❌|✅|✅|
-|Adresse de facturation/livraison déjà renseignée|✅|❌|❌|❌|❌|
+|Plus besoin de renseigner d'adresse|✅|❌|❌|❌|❌|
 |Même expérience sur tous les systèmes|✅|✅|❌|✅|❌|
 |Les données ne trainent pas dans le cloud|✅|✅|❌|❌|❌|
 |Le concept de mot de passe est aboli|✅|❌|❌|❌|❌|
