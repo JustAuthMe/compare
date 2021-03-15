@@ -20,3 +20,4 @@
 
 | |JustAuthMe|Mot de passe|Connexion avec Facebook/Google/Apple/etc.|
 |-|:---:|:---:|:---:|:---:|:---:|
+|||||
