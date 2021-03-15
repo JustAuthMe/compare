@@ -7,7 +7,8 @@
 |Aucun mot de passe à retenir|✅|❌|✅|✅|✅|
 |Même pas un mot de passe maître|✅|❌|❌|❌|✅|
 |Connexion depuis l'appareil d'un ami|✅|✅|❌|✅|✅|
-|Plus besoin de renseigner son adresse pour commander|✅|❌|❌|❌|❌|
+|Plus besoin de renseigner mon adresse pour commander|✅|❌|❌|❌|❌|
 |Même expérience sur tous les systèmes|✅|✅|❌|✅|❌|
-|Les données ne trainent pas dans le cloud|✅|✅|❌|❌|❌|
+|Mes données ne trainent pas dans le cloud|✅|✅|❌|❌|❌|
+|La liste des sites où j'ai un compte n'est pas sauvegardée|✅|✅|❌|❌|❌|
 |Le concept de mot de passe est aboli|✅|❌|❌|❌|❌|
