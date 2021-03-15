@@ -1,5 +1,8 @@
 # Tableau comparatif
 ✅❌
+
+## B2C
+
 | |JustAuthMe|Mot de passe|Gestionnaire de mots de passe|Connexion avec Facebook/Google|Connexion avec Apple|
 |-|:---:|:---:|:---:|:---:|:---:|
 |Inscription sans formulaire|✅|❌|❌|✅|✅|
@@ -12,3 +15,8 @@
 |Mes données ne trainent pas dans le cloud|✅|✅|❌|❌|❌|
 |La liste des sites où j'ai un compte n'est pas sauvegardée|✅|✅|❌|❌|❌|
 |Le concept de mot de passe est aboli|✅|❌|❌|❌|❌|
+
+## B2B
+
+| |JustAuthMe|Mot de passe|Connexion avec Facebook/Google/Apple/etc.|
+|-|:---:|:---:|:---:|:---:|:---:|
