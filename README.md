@@ -8,7 +8,7 @@
 |Inscription sans formulaire|✅|❌|❌|✅|✅|
 |Connexion sans mot de passe|✅|❌|❌|❌|⚠️ iOS/macOS seulement|
 |Aucun mot de passe à retenir|✅|❌|✅|✅|✅|
-|Même pas un mot de passe maître|✅|❌|❌|❌|✅|
+|Même pas un mot de passe maître|✅|❌|❌|❌|⚠️ iOS/macOS seulement|
 |Connexion depuis l'appareil d'un ami|✅|✅|❌|✅|✅|
 |Plus besoin de renseigner mon adresse pour commander|✅|❌|❌|❌|❌|
 |Même expérience sur tous les systèmes|✅|✅|✅|✅|❌|
