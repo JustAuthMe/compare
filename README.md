@@ -7,11 +7,11 @@
 |-|:---:|:---:|:---:|:---:|:---:|
 |Inscription sans formulaire|✅|❌|❌|✅|✅|
 |Connexion sans mot de passe|✅|❌|❌|❌|⚠️ iOS/macOS seulement|
-|Aucun mot de passe à retenir|✅|❌|✅|✅|✅|
+|Plus de mot de passe à retenir|✅|❌|✅|✅|✅|
 |Même pas un mot de passe maître|✅|❌|❌|❌|⚠️ iOS/macOS seulement|
 |Connexion depuis l'appareil d'un ami|✅|✅|❌|✅|✅|
 |Plus besoin de renseigner mon adresse pour commander|✅|❌|❌|❌|❌|
-|Même expérience sur tous les systèmes|✅|✅|✅|✅|❌|
+|Même expérience fluide et rapide sur tous les systèmes|✅|❌|❌|❌|❌|
 |Mes données ne trainent pas dans le cloud|✅|✅|❌|❌|❌|
 |Mes connexions à mes sites préférées ne sont pas trackées|✅|✅|❌|❌|❌|
 |Le concept de mot de passe est aboli|✅|❌|❌|❌|❌|
