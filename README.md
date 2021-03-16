@@ -12,7 +12,7 @@
 |Connexion depuis l'appareil d'un ami|✅|✅|❌|✅|✅|
 |Plus besoin de renseigner mon adresse pour commander|✅|❌|❌|❌|❌|
 |Même expérience fluide et rapide sur tous les systèmes|✅|❌|❌|❌|❌|
-|Mes données ne trainent pas dans le cloud|✅|✅|❌|❌|❌|
+|Mes données ne sont que sur mon smartphone et pas dans le cloud|✅|✅|❌|❌|❌|
 |Les connexions à mes sites préférés ne sont pas trackées|✅|✅|❌|❌|❌|
 |Le concept de mot de passe est aboli|✅|❌|❌|❌|❌|
 
