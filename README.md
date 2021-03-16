@@ -13,7 +13,7 @@
 |Plus besoin de renseigner mon adresse pour commander|✅|❌|❌|❌|❌|
 |Même expérience sur tous les systèmes|✅|✅|✅|✅|❌|
 |Mes données ne trainent pas dans le cloud|✅|✅|❌|❌|❌|
-|La liste des sites où j'ai un compte n'est pas sauvegardée|✅|✅|❌|❌|❌|
+|Mes connexions à mes sites préférées ne sont pas trackées|✅|✅|❌|❌|❌|
 |Le concept de mot de passe est aboli|✅|❌|❌|❌|❌|
 
 ## B2B
