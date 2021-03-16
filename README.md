@@ -1,5 +1,5 @@
 # Tableau comparatif
-✅❌
+✅❌⚠️
 
 ## B2C
 
@@ -18,6 +18,6 @@
 
 ## B2B
 
-| |JustAuthMe|Mot de passe|Connexion avec Facebook/Google/Apple/etc.|
-|-|:---:|:---:|:---:|
-|||||
+| |JustAuthMe|Mot de passe|Connexion avec Facebook/Google|Connexion avec Apple|
+|-|:---:|:---:|:---:|:---:|
+||||||
